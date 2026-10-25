@@ -1,0 +1,13 @@
+numpy
+pandas
+scipy
+matplotlib
+scikit-learn
+xgboost
+lightgbm
+catboost
+joblib
+
+# GNN exploration
+torch
+torch-geometric
